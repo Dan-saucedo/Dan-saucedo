@@ -47,9 +47,9 @@ interface design.
 
 #### 🔧 Frameworks
 ![nest.js](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs)
-![node.js](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoSize=auto   )
-![mongo.db](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![react.js]()
+![node.js](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![mongo.db](https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![react.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -58,9 +58,24 @@ interface design.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<h2>
+   Languages
+</h2>
 
+- English linguaskill B1  
+- APTIS British Council B2
 
+<h2>
+   <picture>
+     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp">
+     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32">
+   </picture>
+    Statistics
+</h2>
 
+<p align = "center">
+   
+</p>
 
 
 
