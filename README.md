@@ -1,15 +1,20 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
    <h1>
-  <b> Hi! I'm Daniel Saucedo </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+     <b> Hi! I'm Daniel Saucedo </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+   </h1>
 <br>
+   
 <a href="https://instagram.com/dansaucedojr" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fdansaucedojr%3Fstkn%3DOXZqMWh0NmxjYTdi%26utm_source%3Dqr"/>
 </a>
 <a href="https://linkedin.com/in/daniel-saucedoavila" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logoColor=white&link=www.linkedin.com%2Fin%2Fdaniel-saucedoavila"/>
 </a>
+</div>
+<br>
+<div align="center">
+   <img src="https://media.giphy.com/media/RKAVHz3dIHKmXHnlDG/giphy.gif" width="50%" style="opacity: 0.5;" alt="Banner GIF" />
 </div>
 
 <h2>
@@ -42,7 +47,6 @@ interface design.
 </h2>
 
 #### 🔧 Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFC512?style=for-the-badge&logo=javascript&logoColor=4f4f4f&logoSize=5)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=5)
@@ -79,7 +83,9 @@ interface design.
     Statistics
 </h2>
 
-## pending statistics
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Dan-saucedo&theme=tokyonight&show_icons=true" height="165" alt="GitHub Stats" />
+</p>
 
 <h2>
    <picture>
