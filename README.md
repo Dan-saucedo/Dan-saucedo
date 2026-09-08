@@ -1,11 +1,16 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
-
-<h1 align="center">
+   <h1>
   <b> Hi! I'm Daniel Saucedo </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <br>
+<a href="https://instagram.com/dansaucedojr" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fdansaucedojr%3Fstkn%3DOXZqMWh0NmxjYTdi%26utm_source%3Dqr"/>
+</a>
+<a href="https://linkedin.com/in/daniel-saucedoavila" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logoColor=white&link=www.linkedin.com%2Fin%2Fdaniel-saucedoavila"/>
+</a>
+</div>
 
 <h2>
    About
