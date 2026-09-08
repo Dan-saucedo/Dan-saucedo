@@ -51,10 +51,11 @@ interface design.
 ![CSS3](https://img.shields.io/badge/CSS3-6A4DFF?style=for-the-badge&logo=css&logoColor=white)
 
 #### 🔧 Frameworks
+![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![nest.js](https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=nestjs)
 ![node.js](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![mongo.db](https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![react.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![react.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue)
 
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -78,9 +79,15 @@ interface design.
     Statistics
 </h2>
 
-<p align = "center">
-   
-</p>
+## pending statistics
+
+<h2>
+   <picture>
+     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
+   </picture>
+   Projects - Contributions 
+</h2>
 
 
 
