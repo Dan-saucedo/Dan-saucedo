@@ -13,9 +13,6 @@
 </a>
 </div>
 <br>
-<div align="center">
-   <img src="https://media.giphy.com/media/RKAVHz3dIHKmXHnlDG/giphy.gif" width="50%" style="opacity: 0.5;" alt="Banner GIF" />
-</div>
 
 <h2>
    About
@@ -92,7 +89,7 @@ interface design.
      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="32" height="32">
    </picture>
-   Projects - Contributions 
+   Projects - Check my Repos 🔽  
 </h2>
 
 
